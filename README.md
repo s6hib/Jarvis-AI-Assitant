@@ -1,6 +1,6 @@
 # Jarvis: Your Friendly AI Terminal Assistant
 
-Welcome to Jarvis, a friendly AI that helps you with your terminal commands. With Jarvis, you don't need to remember complex commands or keep Googling them. Simply ask Jarvis and it'll give you the command you need! Jarvis is also capable of running the commands that you ask for!
+Welcome to Jarvis, a friendly AI that helps you with your terminal commands. With Jarvis, you don't need to remember complex commands or keep Googling them. Simply ask Jarvis and it'll give you the command you need, then ask you permission to run it!
 
 ## Prerequisites
 * Python 3.7 or later
